@@ -2,9 +2,9 @@
 Basic Query expansion to search local relevants documents 
 
 # Requirement
--[] Python 3.9.0
--[] Conda 4.10.1
--[] Jupyter Notebook 6.1.4
+- Python 3.9.0
+- Conda 4.10.1
+- Jupyter Notebook 6.1.4
 
 # How to use
 -[] install python : https://www.python.org/downloads/
